@@ -6,15 +6,7 @@
 
 - recursividad: Recordar que la recursividad es una funcionar que se llama asi misma 
 
---- 
-El arbol de la recursidad
-<br>
 
-
-![Árbol de recursividad](https://complex-systems-ai.com/wp-content/uploads/2016/02/fibo.png)
-
-
----
 ````
 // in lenguaje JAVA 
 
@@ -30,4 +22,13 @@ public class Main {
         }
     }
 }
-``
+`````
+--- 
+El arbol de la recursidad
+<br>
+
+
+![Árbol de recursividad](https://complex-systems-ai.com/wp-content/uploads/2016/02/fibo.png)
+
+
+---
