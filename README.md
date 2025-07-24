@@ -10,18 +10,19 @@
 ````
 //  lenguaje is JAVA 
 
-public class Main {
-       public static void main(String[] args) { 
-    int parametro = 2;
-    System.out.println(suma(parametro));
-    } static int suma (int n ){
-        if(n == 1){
-            return  1;
-        }else {
-            return  n +  suma(n-1);
+public class fibonacii {
+    public static void main(String[] args){
+        int n = 5;
+        System.out.println(fibonacii(n));
+    }
+    static int fibonacii(int n){
+        if(n ==  0  || n == 1){
+            return  n;
         }
+        return  fibonacii(n-1) + fibonacii(n -2);
     }
 }
+
 `````
 --- 
 ### El arbol de la recursidad
