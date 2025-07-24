@@ -26,10 +26,10 @@ public class fibonacii {
 `````
 --- 
 ### El arbol de la recursidad
-<br>
+<!-- Esta imagen muestra el árbol de recursividad de Fibonacci -->
 
-
-![Árbol de recursividad](https://complex-systems-ai.com/wp-content/uploads/2016/02/fibo.png)
-
+<p align="center">
+  <img src="https://complex-systems-ai.com/wp-content/uploads/2016/02/fibo.png" alt="Árbol de Fibonacci">
+</p>
 
 ---
