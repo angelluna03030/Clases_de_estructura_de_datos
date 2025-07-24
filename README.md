@@ -8,7 +8,7 @@
 
 
 ````
-// in lenguaje JAVA 
+//  lenguaje is JAVA 
 
 public class Main {
        public static void main(String[] args) { 
