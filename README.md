@@ -6,7 +6,7 @@
 
 - recursividad:Recordar que la recursividad es una funcionar que se llama asi misma 
 
-
+---
     static int suma (int n ){
         if(n == 1){
             return  1;
@@ -18,9 +18,12 @@
 
 --- 
 El arbol de la recursidad
+<br>
+
+
 ![Árbol de recursividad](https://complex-systems-ai.com/wp-content/uploads/2016/02/fibo.png)
 
----
+
 - backtraking
 - 
 
