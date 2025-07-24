@@ -4,7 +4,7 @@
 
  que vimos en esta clase?
 
-- recursividad: Recordar que la recursividad es una funcionar que se llama asi misma 
+- recursividad: Recordar que la recursividad es una funcionar que se llama asi misma.
 
 
 ````
